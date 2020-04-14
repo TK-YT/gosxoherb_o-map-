@@ -1,0 +1,4 @@
+on first join:
+  message "&b[&e&l!&b] &c태경 &3쁘허님 맞으시나요? &c태&a싹&0입니다! 재미있게 플레이해주시고 룰 꼭 확인해주세요! 그리고 이건 쁘허님이랑만 같이 해주셔야 합니다." to player
+  message "튜토리얼 후 맵 다시적용해주세요! 이건 1회용입니다!" to player
+  title "환영합니다!" with subtitle "&b%player%&e&l!" to player for 3 seconds
